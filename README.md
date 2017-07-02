@@ -7,8 +7,6 @@
 ##开发目的
 上班路上听听英语，练习听力，同时也是为了学习react-native的开发做出的第一个app或者说是demo（不够美化）
 
-##应用截图
-
 <img src="./imgs/1.png" width="150px" style="float:left"/>
 <img src="./imgs/2.png" width="150px" style="float:left"/>
 <img src="./imgs/3.png" width="150px" style="float:left"/>
