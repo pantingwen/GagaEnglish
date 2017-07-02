@@ -10,9 +10,9 @@
 ##应用截图
 <img src="./imgs/1.png" width="150px" style="float:left"/>
 <img src="./imgs/2.png" width="150px" style="float:left"/>
-<img src="./imgs/3.png" width="150px" style="float:left"//>
+<img src="./imgs/3.png" width="150px" style="float:left"/>
 <img src="./imgs/4.png" width="150px" style="float:left"/>
-<img src="./imgs/5.png" width="150px" style="float:left"//>
+<img src="./imgs/5.png" width="150px" style="float:left"/>
 
 ## 使用技术
 * react
